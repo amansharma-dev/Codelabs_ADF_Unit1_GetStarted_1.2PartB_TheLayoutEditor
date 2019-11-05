@@ -1,5 +1,5 @@
 # Android fundamentals 01.2 PartB : The layout editor - HelloToast
-
+![](toast_count_partb_github.gif)
 ## Introduction
 
 The purpose of this app is to learn about other ViewGroup subclasses such as LinearLayout and RelativeLayout, and change the Hello Toast app layout to use them.
